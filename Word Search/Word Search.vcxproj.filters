@@ -29,6 +29,7 @@
       <Filter>Resource Files</Filter>
     </None>
     <None Include="Word Search.reg" />
+    <None Include="..\Readme.md" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">

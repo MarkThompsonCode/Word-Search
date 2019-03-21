@@ -188,6 +188,7 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <None Include="..\Readme.md" />
     <None Include="ReadMe.txt" />
     <None Include="res\Toolbar.bmp" />
     <None Include="res\Toolbar256.bmp" />
