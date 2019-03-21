@@ -1,4 +1,4 @@
-Windows MFC Word Search application
+Windows C++ MFC Word Search application - Compiled using Microsoft Visual Studio Community 2017
 
 ![](/Images/WordSearch.jpg)
 
